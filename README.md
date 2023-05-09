@@ -10,6 +10,7 @@ Efficnent Net:
 “Pytorch.” PyTorch, pytorch.org/hub/nvidia_deeplearningexamples_efficientnet/. Accessed 9 May 2023. 
 
 
+
 Hard Triplets: 
 
 Installed code to perform hard triplets: Rishaug, Joakim. “Online_triplet_loss.” Online_triplet_loss | Online_triplet_loss, 2021, www.jrishaug.com/OnlineMiningTripletLoss/. 
