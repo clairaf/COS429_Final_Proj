@@ -17,6 +17,7 @@ Documentation on AUC and Top-1/Top-5 Accuracy:
 
 “AUC-Roc Curves and Their Usage for Classification in Python.” AUC-ROC Curves and Their Usage for Classification in Python., 28 May 2022, www.turing.com/kb/auc-roc-curves-and-their-usage-for-classification-in-python. 
 
+Dang, Anh T. “Accuracy and Loss: Things to Know about the Top 1 and Top 5 Accuracy.” Medium, 7 Jan. 2021, towardsdatascience.com/accuracy-and-loss-things-to-know-about-the-top-1-and-top-5-accuracy-1d6beb8f6df3#:~:text=Top%2D5%20accuracy%20means%20any,%3D%203%2F5%20%3D%200.6. 
 
 Redistributing Weights for WeightedRandomSampling: 
 
