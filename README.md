@@ -25,3 +25,6 @@ Dang, Anh T. “Accuracy and Loss: Things to Know about the Top 1 and Top 5 Accu
 Redistributing Weights for WeightedRandomSampling: 
 
 Balance_data function influenced and adapted from : Foufa, Mastafa. “Augment Your Data Easily with Pytorch.” Medium, 29 May 2022, medium.com/analytics-vidhya/augment-your-data-easily-with-pytorch-313f5808fc8b. 
+
+
+Pytorch Documentation used to become familiar with transformation, datasets, dataloaders ect. from their library. 
