@@ -7,6 +7,8 @@ Citations and Acknowledgements for Code:
 
 Efficnent Net: 
 
+“Pytorch.” PyTorch, pytorch.org/hub/nvidia_deeplearningexamples_efficientnet/. Accessed 9 May 2023. 
+
 
 Hard Triplets: 
 
