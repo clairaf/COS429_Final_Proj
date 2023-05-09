@@ -11,4 +11,4 @@ Hard Triplets: Installed code to perform hard triplets: Rishaug, Joakim. “Onli
 
 Documentation on AUC and Top-1/Top-5 Accuracy:
 
-Redistributing Weights for WeightedRandomSampling: 
+Redistributing Weights for WeightedRandomSampling: Balance_data function influenced and adapted from : Foufa, Mastafa. “Augment Your Data Easily with Pytorch.” Medium, 29 May 2022, medium.com/analytics-vidhya/augment-your-data-easily-with-pytorch-313f5808fc8b. 
